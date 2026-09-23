@@ -28,4 +28,4 @@ Esta modificación nos sirve para aprender markdown que por ejemplo los titulos 
 
 ### Id del cabecero {#Ejem01_Nicolás Hernández}
 
-# Creamos nuestra primera rama
+# Creamos nuestra primera rama.
