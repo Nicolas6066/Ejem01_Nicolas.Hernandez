@@ -22,3 +22,7 @@ Esta modificación nos sirve para aprender markdown que por ejemplo los titulos 
 | versión | Modificación | Propietario de la modificación |
 |---|---|---|
 | 1.0 | Creación de tablas | Nicolás Hernández |
+
+[^1]: Esto es un pie d página
+
+Hasta Superindices
