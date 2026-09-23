@@ -36,3 +36,5 @@ Esta modificación nos sirve para aprender markdown que por ejemplo los titulos 
 
 
 ## Vamos a volver a hacerlo por nuestra cuenta.
+
+En la clase de hoy hemos empezado con ramas y MarkDown
