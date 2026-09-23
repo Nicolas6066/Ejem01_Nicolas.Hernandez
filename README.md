@@ -37,3 +37,6 @@ Esta modificación nos sirve para aprender markdown que por ejemplo los titulos 
 
 ## Vamos a volver a hacerlo por nuestra cuenta.
 Ahora estamos en main
+
+
+## En esta actualización voy a cerrar 2Prueba2309
